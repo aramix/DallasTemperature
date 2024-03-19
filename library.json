@@ -27,7 +27,7 @@
     }
   ],
   "dependencies": {
-    "DS2482_OneWire": "0.0.0+20231214225149"
+    "DS2482_OneWire": "0.0.0+2024032003515149"
   },
   "version": "3.11.0",
   "frameworks": "arduino",

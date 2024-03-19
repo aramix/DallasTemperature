@@ -2,13 +2,11 @@
   "name": "DallasTemperature",
   "keywords": "onewire, 1-wire, bus, sensor, temperature",
   "description": "Arduino Library for Dallas Temperature ICs (DS18B20, DS18S20, DS1822, DS1820, MAX31850)",
-  "repository":
-  {
+  "repository": {
     "type": "git",
     "url": "https://github.com/milesburton/Arduino-Temperature-Control-Library.git"
   },
-  "authors": 
-  [
+  "authors": [
     {
       "name": "Miles Burton",
       "email": "miles@mnetcs.com",
@@ -28,9 +26,8 @@
       "email": "rob.tillaart@gmail.com"
     }
   ],
-  "dependencies":
-  {
-    "paulstoffregen/OneWire": "^2.3.5"
+  "dependencies": {
+    "DS2482_OneWire": "0.0.0+20231214225149"
   },
   "version": "3.11.0",
   "frameworks": "arduino",
